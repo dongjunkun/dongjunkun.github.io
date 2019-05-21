@@ -32601,7 +32601,7 @@ ds:function(){this.k8()
 this.br$=null}}
 F.xn.prototype={
 O:function(a){var u=null,t=X.JG(u,u,C.b7,u)
-return new S.kf(new M.iC(M.dx(u,new F.mp(u),C.b7,u,u,u,new V.aB(10,10,10,10),u),u),"2048 game",t,u)}}
+return new S.kf(new M.iC(M.dx(u,new F.mp(u),C.b7,u,u,u,new V.aB(10,10,10,10),u),u),"2048小游戏",t,u)}}
 F.xo.prototype={
 O:function(a){var u,t,s,r,q,p,o=null,n=this.c,m=n.dS().a,l=n.f
 if(typeof l!=="number")return l.m()
