@@ -1,0 +1,22 @@
+[
+  {
+    "family": "Share Tech Mono",
+    "fonts": [
+      {
+        "asset": "fonts/ShareTechMono-Regular.ttf"
+      }
+    ]
+  },
+  {
+    "family": "Roboto Condensed",
+    "fonts": [
+      {
+        "asset": "fonts/RobotoCondensed-Regular.ttf"
+      },
+      {
+        "asset": "fonts/RobotoCondensed-Light.ttf",
+        "weight": 300
+      }
+    ]
+  }
+]
